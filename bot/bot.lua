@@ -91,7 +91,7 @@ function create_config( )
 
 	},
     sudo_users = {119219946}
-    admins = {},
+    admins = {119219946},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Reborn v6.0
